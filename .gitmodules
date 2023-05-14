@@ -1,0 +1,18 @@
+[submodule "Client/Sinage"]
+	path = Client/Sinage
+	url = https://github.com/DCUSnSLab/LL_Shelter_Sinage.git
+[submodule "Client/Media"]
+	path = Client/Media
+	url = https://github.com/DCUSnSLab/LL_Shelter_MediaPlayer.git
+[submodule "Client/Wifi"]
+	path = Client/Wifi
+	url = https://github.com/DCUSnSLab/LL_Shelter_WIFI.git
+[submodule "Server/API-Server"]
+	path = Server/API-Server
+	url = https://github.com/DCUSnSLab/LL_Shelter_API-Server.git
+[submodule "Server/Synchronizer"]
+	path = Server/Synchronizer
+	url = https://github.com/DCUSnSLab/LL_Shelter_Synchronizer.git
+[submodule "Server/Advertiser"]
+	path = Server/Advertiser
+	url = https://github.com/DCUSnSLab/LL_Shelter_Advertiser.git
